@@ -1,0 +1,9 @@
+slovo,kategoria,ohybné,prvá_o_sg,druhá_o_sg,tretia_o_sg,prvá_o_pl,druhá_o_pl,tretia_o_pl,minulý,budúci,prítomný, činný_rod, trpný_rod,dok_vid,nedok_vid,plnovýznamové,činnostné,stavové,neurčitok,prechodník,činné príčastie prítomné,slovesné podstatné meno
+volať,sl,1,volám,voláš,volá,voláme,voláte,volajú,,1,,,1,1,1,,,volať,volajúc,volajúci,volanie	
+dávať,sl,1,dávam,dávaš,dáva,dávame	dávate,dávame,,1,,,1,1,1,,,dávať,dávajúc,dávajúci,dávanie
+rásť,sl,1,rastiem,rastieš,rastie,rastieme,rastiete,rastú,,1,,,1,1,,1,,rásť,rastúc,rastúci,rast
+jesť,sl,1,jem,ješ,je,jeme,jete,jedia,,1,,,1,1,1,,,jesť,jediac,jediaci,jedenie
+chcieť,sl,1,chcem,chceš,chce,chceme,chcete,chcú,,1,,,1,0,,,1,chcieť,chcejúc,chcejúci,chcenie
+môcť,sl,1,môžem,môžeš,môže,môžeme,môžete,môžu,,1,,,1,0,,,1,môcť,môžuc,môžuci,moc	
+liezť,sl,1,leziem,lezieš,lezie,lezieme,leziete,lezú,,1,,,1,1,1,,,liezť,leziac,lezúci,lezenie	
+nadávať,sl,1,nadávam,nadávaš,nadáva,nadávame,nadávate,nadávajú,,1,,1,,1,1,,,nadávať,nadávajúc,nadávajúci,nadávanie

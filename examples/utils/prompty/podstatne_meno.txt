@@ -1,0 +1,15 @@
+slovo,kategoria,genitív_sg,datív_sg,akuzatív_sg,lokál_sg,inštrumentál_sg,nominativ_pl,genitív_pl,datív_pl,akuzatív_pl,lokál_pl,inštrumentál_pl,rod,chlap,hrdina,dub,stroj,žena,ulica,dlaň,kosť,mesto,srdce,vysvedčenie,dievča,antonymum,pomnožné,hypermnym,hypomnym
+chlapec,pods,chlapca,chlapcovi,chlapca,chlapcovi,chlapcom,chlapci,chlapcov,chlapcom,chlapcov,chlpacoch,chlapcami,1,1,,,,,,,,,,,dievča,,,1,
+dievča,pods,dievčaťa,dievčaťu,dievča,dievčati,dievčaťom,dievčatá,dievčat,dievčatám,dievčatá,dievčatách,dievčatami,2,,,,,,,,,,,1,chlapec,,,1,
+muž,pods,muža,mužovi,muža,mužovi,mužom,muži,mužov,mužom,mužov,mužoch,mužmi,1,,,,,,,,,,,,žena,,,1,
+mesto,pods,mesta,mestu,mesto,meste,mestom,mestá,miest,mestám,mestá,mestách,mestami,3,,,,,,,,1,,,,dedina,,,1,
+ruža,pods,ruže,ruži,ružu,ruži,ružou,ruže,ruží,ružiam,ruže,ružiach,ružami,2,,,,,1,,,,,,,,,,1,
+
+
+
+
+
+
+
+
+

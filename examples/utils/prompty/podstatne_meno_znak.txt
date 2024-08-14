@@ -1,0 +1,10 @@
+slovo:osoba,zviera,rastlina,vec,vlastnosť,miesto,fyzické,vozidlo,koncepčné,artefakt,dokument,inštitúcia,pomnožné číslo,agent,zdôraznenie,negácia,hl_myšlienka,vzhľad,zač_stav,môže_zmeniť,zelenina,jedlo,svetlo,tekutina,otvoriteľné,leziteľné,čistiľné,budovateľné,piteľné,spev,interiér
+chlapec:osoba,fyzické,agent
+dievča:osoba,fyzické,agent
+muž:osoba,fyzické,agent,
+mesto:vec,miesto,fyzické,čistiľné,budovateľné,môže_zmeniť,
+ruža:vec,rastlina,fyzické,
+krava:zviera,fyzické,
+princezná:osoba,fyzické,agent,
+tričko:vec,fyzické,čistiľné
+

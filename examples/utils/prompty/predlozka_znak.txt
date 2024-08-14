@@ -1,0 +1,8 @@
+slovo:osoba,zviera,rastlina,vec,vlastnosť,miesto,fyzické,vozidlo,koncepčné,artefakt,dokument,inštitúcia,pomnožné číslo,agent,zdôraznenie,negácia,hl_myšlienka,vzhľad,zač_stav,môže_zmeniť,zelenina,jedlo,svetlo,tekutina,otvoriteľné,leziteľné,čistiľné,budovateľné,piteľné,spev,interiér
+bez,
+k,
+cez,
+na,
+nad,
+s,
+z,

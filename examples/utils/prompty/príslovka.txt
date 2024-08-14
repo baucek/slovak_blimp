@@ -1,0 +1,5 @@
+slovo,kategoria,prvý_stu,druhý_stu,tretí_stu,antonymum,miesta,čas,príčina,spôsob
+rýchlo,pris,rýchlo,rýchlejší,najrýchlejší,pomalý,,,,1,
+zle,pris,zle,horšie,najhoršie,dobre,,,,1,
+ďaleko,pris,ďaleko,ďalej,najďalej,1,,,,
+skoro,pris,skoro,skôr,najskôr,,1,,,

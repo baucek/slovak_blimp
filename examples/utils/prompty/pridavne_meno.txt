@@ -1,0 +1,6 @@
+slovo,kategoria,genitív_sg,datív_sg,akuzatív_sg,lokál_sg,inštrumentál_sg,nominativ_pl,genitív_sg,datív_sg,akuzatív_sg,lokál_sg,inštrumentál_sg,prvý_stu,druhý_stu,tretí_stu,rod,antonymum
+pekný,prid, pekného, peknému, pekného, peknom, pekným, pekní, pekných, pekným, pekných, pekných, peknými,krajší,najkrajší,1,škaredý
+cudzí,prid, cudzieho, cudzému, cudzieho, cudzom, cudzím, cudzie, cudzích, cudzím, cudzích, cudzích, cudzími, cudzí,,,1,(vlastný/známy)
+pekná,prid, peknej, peknej, peknú, peknej, peknou, pekné, pekných, pekným, pekné, pekných, peknými, krajšia, najkrajšia,1,škaredý
+rýchly,prid, rýchleho, rýchlemu, rýchleho, rýchlom, rýchlym, rýchli, rýchlych, rýchlym, rýchlych, rýchlych, rýchlymi, rýchlejší, najrýchlejší,1,pomalý
+šťastný,prid, šťastného, šťastnému, šťastného, šťastnom, šťastným, šťastní, šťastných, šťastným, šťastných, šťastných, šťastnými, šťastnejší, najšťastnejší,1,smutný

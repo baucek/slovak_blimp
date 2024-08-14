@@ -1,0 +1,7 @@
+slovo,kategoria,ohybné,genitív_sg,datív_sg,akuzatív_sg,lokál_sg,inštrumentál_sg,rod,sg,pl
+Ja,za,1, mňa, mne, mňa, mne, mnou,4,1,,
+on,za,1, jeho, jemu, ho, ním,ňom,1,1,,
+moja,za,1,mojej,mojej,moju,mojej,mojou,2,1,,
+ono,za,1,(jeho/ho),(jemu/mu),(jeho/ho),ňom,ním,3,1,,
+vy,za,1, vás, vám, vás, vás, vami,4,,1,  
+naše,za,1,našej,našej,našu,našej,našou,4,,1,  

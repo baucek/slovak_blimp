@@ -1,0 +1,9 @@
+slovo,kategoria,sp_genitív,sp_datív,sp_akuzatív,sp_lokál,sp_inštrumentál,vok,polohové,smerové,ćasové
+bez,pred,1,,,,,,,1,,
+k,pred,,1,,,,ku,,1,,
+cez,pred,,,1,,,,1,1,,
+na,pred,,,1,1,,,,1,,
+nad,pred,,,,,1,,1,1,,
+s,pred,,,,,1,so,,,,
+z,pred,1,,,,,zo,,,,
+
